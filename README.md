@@ -1,6 +1,7 @@
 # Penguin
 ![logo][0]
 
+[![license](https://img.shields.io/badge/license-GPL%20(%3E%3D%202)-blue.svg?style=flat)](https://github.com/penguin-xposed/Penguin/blob/master/LICENSE)
 ## Overview
 
 - Hook Framework for Android.
