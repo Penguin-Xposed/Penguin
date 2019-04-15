@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Penguin Manager</string>
+    <string name="nothing_installed">No Module Installed～</string>
+    <string name="framework_active">Penguin-Xposed Framework version %s is active.</string>
+    <string name="framework_not_active">Penguin-Xposed Framework is installed, but not active. Please check the logs for details.</string>
+    <string name="framework_not_installed">Penguin-Xposed Framework is not installed.</string>
+    <string name="add">Add</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="soft_reboot">Soft Reboot</string>
+</resources>
